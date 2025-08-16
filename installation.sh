@@ -2,7 +2,7 @@ set -e
 
 APP_NAME="dawg"
 INSTALL_DIR="/usr/local/bin"
-INSTALLING_REPO="https://github.com/Arya-1-HR/Run-Dawg/main/bin/dawg"
+INSTALLING_REPO="https://github.com/Arya-1-HR/Run-Dawg/raw/main/bin/dawg"
 
 echo "[*] Installing $APP_NAME from "$INSTALLING_REPO" to "$INSTALL_DIR" ..."
 curl -L "$INSTALLING_REPO" -o "$APP_NAME"
