@@ -9,13 +9,21 @@ Run-Dawg was just made for fun
 ---
 
 <div>
+
 ## Quick Install (Mac)
 
 Run this command in your terminal:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/Arya-1-HR/Run-Dawg/main/installation.sh | bash
+curl -sL https://raw.githubusercontent.com/Arya-1-HR/Run-Dawg/main/installations/mac.sh | bash
 
+```
+
+## Quick Install in Windows
+
+Run this command in your root powershell
+
+```powershell -Command "Invoke-WebRequest -Uri https://github.com/Arya-1-HR/Run-Dawg/raw/main/installations/windows.bat -OutFile windows.bat; Start-Process windows.bat -Wait"
 ```
 
 </div>
