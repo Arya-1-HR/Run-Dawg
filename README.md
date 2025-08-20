@@ -23,7 +23,7 @@ curl -sL https://raw.githubusercontent.com/Arya-1-HR/Run-Dawg/main/installations
 
 Run this command in your root powershell
 
-```Invoke-WebRequest -Uri https://github.com/Arya-1-HR/Run-Dawg/raw/main/installations/windows.bat -OutFile windows.bat; Start-Process windows.bat -Wait"
+```Invoke-WebRequest -Uri https://github.com/Arya-1-HR/Run-Dawg/raw/main/installations/windows.bat -OutFile windows.bat; Start-Process windows.bat -Wait
 ```
 
 </div>
